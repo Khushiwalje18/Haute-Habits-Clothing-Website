@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.adminimage{
+    width: 200px;
+    object-fit: contain;
+    padding: 10px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
